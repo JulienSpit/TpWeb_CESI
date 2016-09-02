@@ -6,4 +6,4 @@
  * Time: 16:07
  */
 
-echo ("TETS");
+echo ("TEST");
